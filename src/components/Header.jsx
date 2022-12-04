@@ -4,7 +4,7 @@ import '../styles/style.scss'
 export const Header = () => {
   return (
     <div className='header'>
-        <img src='../materials/ava.gif' className='avatar' alt='avatar'/>
+        <img src='../../public/materials/ava.gif' className='avatar' alt='avatar'/>
         <p className='nickName'>Orsted</p>
         <p className='description'>React JS developer</p>
         <p className='description'>14 Years Old</p>
