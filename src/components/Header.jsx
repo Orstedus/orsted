@@ -7,7 +7,7 @@ export const Header = () => {
         <img src='../../public/materials/ava.gif' className='avatar' alt='avatar'/>
         <p className='nickName'>Orsted</p>
         <p className='description'>React JS developer</p>
-        <p className='description'>14 Years Old</p>
+        <p className='description'>18 Years Old</p>
         <p className='description'>Kyiv, Ukraine</p>
         <div className='comps'>
           <img src='../../materials/disik.png' onClick={() => window.location = 'https://discord.gg/DHs3vMkYX7'}  className='comp' alt='discord'/>
